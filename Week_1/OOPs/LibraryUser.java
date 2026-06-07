@@ -1,4 +1,4 @@
-// Interface for all library users
+// Interface for all library users to implement
 
 interface LibraryUser {
     void registerAccount();

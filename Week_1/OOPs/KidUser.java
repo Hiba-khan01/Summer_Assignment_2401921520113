@@ -1,4 +1,4 @@
-// Kid user implementation
+// Kid user implementation of the LibraryUser interface
 
 class KidUsers implements LibraryUser {
 
