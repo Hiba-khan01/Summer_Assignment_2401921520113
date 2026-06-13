@@ -1,4 +1,4 @@
-// Problem: Longest Palindromic Substring
+// Problem: https://leetcode.com/problems/longest-palindromic-substring/
 // Description: Find the longest palindrome present in the string.
 // Approach: Expand around each character as a center for odd and even palindromes.
 // Time Complexity: O(n²)
