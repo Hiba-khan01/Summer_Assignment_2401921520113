@@ -1,4 +1,4 @@
-//Problem: String Compression
+//Problem: https://leetcode.com/problems/string-compression/
 // Description: Compress consecutive repeating characters in-place.
 // Approach: we Count occurrences of each character and store count after the character.
 // Time Complexity: O(n)
