@@ -1,4 +1,4 @@
-// Problem: Group Anagrams
+// Problem: https://leetcode.com/problems/group-anagrams/
 // Description: Group strings that are anagrams of each other.
 // Approach: Sort each string and use the sorted string as a HashMap key.
 // Time Complexity: O(n * k log k)
