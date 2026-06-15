@@ -1,5 +1,6 @@
 package Week_2.OOPs;
+package music;
 
-public class Playable {
-    
+public interface Playable {
+    void play();
 }
