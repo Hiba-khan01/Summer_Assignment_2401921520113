@@ -1,7 +1,7 @@
 //Problem: https://leetcode.com/problems/next-greater-element-i/
 //Description: For each element in nums1, find the first greater element to its right in nums2. If none exists, return -1.
 //Approach: We will use a monotonic decreasing stack to find the next greater element for every number in nums2, store these mappings in a HashMap, and then retrieve the answers for nums1 from the map.
-//Time Complexity: O(n + m) where n is the length of nums1 and m is the length of nums2.
+//Time Complexity: O(n + m) 
 package Week_3.Day_3;
 
 import java.util.*;
