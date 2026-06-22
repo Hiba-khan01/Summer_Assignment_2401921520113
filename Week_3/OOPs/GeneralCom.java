@@ -1,5 +1,9 @@
 package Week_3.OOPs;
 
-public class GeneralCom {
-    
+// General compartment implementation.
+
+class General extends Compartment {
+    public String notice() {
+        return "General Compartment";
+    }
 }
