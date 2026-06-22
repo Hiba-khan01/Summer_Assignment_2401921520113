@@ -1,6 +1,6 @@
-package Week_3.OOPs;
-
 // First Class compartment implementation.
+
+package Week_3.OOPs;
 
 class FirstClass extends Compartment {
     public String notice() {
