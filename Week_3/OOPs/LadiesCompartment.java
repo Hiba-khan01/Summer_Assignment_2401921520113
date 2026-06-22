@@ -1,6 +1,6 @@
-package Week_3.OOPs;
-
 // Ladies compartment implementation.
+
+package Week_3.OOPs;
 
 class Ladies extends Compartment {
     public String notice() {
