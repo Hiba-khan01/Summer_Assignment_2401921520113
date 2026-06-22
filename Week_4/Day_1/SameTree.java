@@ -1,4 +1,4 @@
-//Problem: https://leetcode.com/problems/same-tree/
+// Problem: https://leetcode.com/problems/same-tree/
 // Description: Check if two binary trees are identical.
 // Approach: first we Compare current nodes and recursively check subtrees.
 // Time Complexity: O(n)
