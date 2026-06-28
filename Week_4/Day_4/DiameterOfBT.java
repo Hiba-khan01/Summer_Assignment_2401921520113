@@ -1,7 +1,8 @@
-// Problem: Find the diameter of a binary tree.
+//Problem: https://leetcode.com/problems/diameter-of-binary-tree/
+// Description: Find the diameter of a binary tree.
 // Approach: compute height recursively and update maximum diameter.
 // Time Complexity: O(n)
-// Space Complexity: O(h)
+
 package Week_4.Day_4;
 
 class Solution {
