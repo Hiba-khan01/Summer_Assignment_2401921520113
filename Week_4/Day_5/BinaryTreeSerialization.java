@@ -1,4 +1,8 @@
-//Description: 
+//Problem: https://leetcode.com/problems/serialize-and-deserialize-binary-tree/
+//Description: Design an algorithm to serialize and deserialize a binary tree.
+//Approach: Serialization – Traverse the tree in preorder (root → left → right). Append node values to a StringBuilder, using "null" for missing children.
+//Deserialization – Split the serialized string by commas and recursively rebuild the tree, creating nodes or returning null when "null" is encountered
+//Time Complexity: O(n)
 package Week_4.Day_5;
 import java.util.*;
 
