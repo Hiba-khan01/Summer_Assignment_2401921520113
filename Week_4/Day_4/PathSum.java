@@ -4,8 +4,6 @@
 // Time Complexity: O(n)
 package Week_4.Day_4;
 
-
-
 class Solution {
     public boolean hasPathSum(TreeNode root, int targetSum) {
 
