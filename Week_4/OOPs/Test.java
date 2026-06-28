@@ -1,5 +1,8 @@
 package Week_4.OOPs;
 
-public class Test {
-    
+// Interface containing square() method.
+// Implemented by Arithmetic class.
+
+public interface Test {
+    int square(int n);
 }
